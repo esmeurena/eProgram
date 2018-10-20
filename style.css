@@ -1,0 +1,54 @@
+body {
+  background-image: url("ran.jpeg");
+  background-color: #696969;
+  font-family: Helvetica, sans-serif;
+  width: 100%;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar b {
+  color: white;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  float: left;
+  display:run-in;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 14px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+h2{
+  color: gray;
+  font-family: 'Sigmar One', cursive;
+  font-size: 32px;
+  font-weight: 300;
+  margin-bottom: 3px;
+  padding: 1% 1%;
+}
+
+p{
+  color: gray;
+  font-family: 'Sigmar One', cursive;
+  font-size: 27px;
+  font-weight: 300;
+  margin-bottom: 2px;
+  padding: 4% 4%;
+  width: 100%;
+}
+
+h3{
+  color: gray;
+  font-family: 'Sigmar One', cursive;
+  font-size: 27px;
+  font-weight: 300;
+  margin-bottom: 2px;
+  padding: 4% 4%;
+}
